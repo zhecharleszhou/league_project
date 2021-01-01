@@ -84,7 +84,7 @@ def get_highest_rank(matchInfo, playerKey):
 # In[93]:
 
 
-def main_grab_data(region,summoner_name, APIKey):
+def main_grab_data(region, summoner_name, APIKey):
     
     print(summoner_name)
     
@@ -133,7 +133,7 @@ def main_grab_data(region,summoner_name, APIKey):
         # figure out champion name from ID
         thisChampionID = match_info['participants'][player_key]['championId']
         tfIndex = dfChampNames['champion_ID'] == thisChampionID
-        champName =  dfChampNames[tfIndex]['champion_name'].item()
+        champName = dfChampNames[tfIndex]['champion_name'].item()
 
         # figure out player's match rank
         #match_rank = get_highest_rank(match_info, player_key)
@@ -144,7 +144,7 @@ def main_grab_data(region,summoner_name, APIKey):
         teamID = match_info['participants'][player_key]['teamId'] 
 
         all_player_dict = {}
-        for iParticipant in range(0,10):
+        for iParticipant in range(0, 10):
             this_role = match_info['participants'][iParticipant]['timeline']['role']
             this_lane = match_info['participants'][iParticipant]['timeline']['lane']
             this_teamID = match_info['participants'][iParticipant]['teamId']
@@ -163,7 +163,7 @@ def main_grab_data(region,summoner_name, APIKey):
                 all_player_dict['player_mid'] = thisChampName
             elif this_role == 'DUO_CARRY' and this_teamID == teamID:
                 all_player_dict['player_ADC'] = thisChampName
-            elif this_role == 'DUO_SUPPORT' and this_teamID == teamID:
+            elif 'DUO_SUPPORT' in this_role and this_teamID == teamID:
                 all_player_dict['player_supp'] = thisChampName
             elif this_lane == 'TOP' and this_teamID != teamID:
                 all_player_dict['opp_top'] = thisChampName
@@ -171,10 +171,11 @@ def main_grab_data(region,summoner_name, APIKey):
                 all_player_dict['opp_jung'] = thisChampName
             elif this_lane == 'MIDDLE' and this_teamID != teamID:
                 all_player_dict['opp_mid'] = thisChampName
-            elif this_role == 'DUO_CARRY' and this_teamID != teamID:   
+            elif 'DUO_CARRY' in this_role and this_teamID != teamID:
                 all_player_dict['opp_ADC'] = thisChampName
-            elif this_role == 'DUO_SUPPORT' and this_teamID != teamID: 
+            elif 'DUO_SUPPORT' in this_role and this_teamID != teamID:
                 all_player_dict['opp_supp'] = thisChampName
+
 
         if len(all_player_dict) != 10:
             continue
@@ -197,7 +198,7 @@ def main_grab_data(region,summoner_name, APIKey):
         df_user_matches.loc[next_idx, 'match_id'] = matchID
         df_user_matches.loc[next_idx, 'match_rank'] = player_rank
         df_user_matches.loc[next_idx, 'role'] = role
-        df_user_matches.loc[next_idx, 'champ'] = thisChampName
+        df_user_matches.loc[next_idx, 'champ'] = champName
         df_user_matches.loc[next_idx, 'win'] = int(stats_dict['win'])
 
         df_user_matches.loc[next_idx, 'kills'] = stats_dict['kills']

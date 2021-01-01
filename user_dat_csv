@@ -1,0 +1,51 @@
+,acct_id,match_id,match_rank,role,champ,win,kills,deaths,assists,gold_earned,player_top,player_jung,player_mid,player_ADC,player_supp,opp_top,opp_jung,opp_mid,opp_ADC,opp_supp
+0,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3574478282.0,GOLD,DUO_SUPPORT,Senna,0.0,1.0,4.0,7.0,6744.0,Sett,Evelynn,Zed,Ezreal,Senna,Riven,Vi,Akali,Lucian,Lulu
+1,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3572806306.0,GOLD,DUO_SUPPORT,Senna,0.0,1.0,1.0,12.0,7011.0,Irelia,Kayn,Ekko,Vayne,Senna,Poppy,Graves,Twisted Fate,Kai'Sa,Sona
+2,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3572443348.0,GOLD,DUO_SUPPORT,Galio,0.0,0.0,6.0,8.0,5553.0,Vladimir,Ivern,Akali,Caitlyn,Galio,Nasus,Olaf,Zed,Ashe,Brand
+3,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3572091174.0,GOLD,DUO_SUPPORT,Leona,0.0,2.0,9.0,11.0,8427.0,Yasuo,Gragas,Galio,Ashe,Leona,Wukong,Lee Sin,LeBlanc,Lucian,Thresh
+4,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3569335440.0,GOLD,DUO_SUPPORT,Senna,0.0,0.0,4.0,6.0,6324.0,Camille,Shyvana,Zed,Ashe,Senna,Urgot,Kayn,Zoe,Jhin,Zyra
+5,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3561942024.0,GOLD,DUO_SUPPORT,Senna,1.0,2.0,2.0,11.0,9095.0,Darius,Evelynn,Zed,Kai'Sa,Senna,Aatrox,Ivern,Twisted Fate,Caitlyn,Lulu
+6,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3560510567.0,GOLD,DUO_SUPPORT,Senna,1.0,3.0,1.0,23.0,10502.0,Lillia,Jarvan IV,Katarina,Jhin,Senna,Akali,Kha'Zix,Qiyana,Draven,Nautilus
+7,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3560411472.0,GOLD,DUO_SUPPORT,Senna,1.0,1.0,0.0,15.0,8654.0,Vayne,Warwick,Annie,Lucian,Senna,Ornn,Nidalee,Yone,Sivir,Alistar
+8,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3559141866.0,GOLD,DUO_SUPPORT,Leona,1.0,1.0,2.0,10.0,7309.0,Mordekaiser,Ekko,Yone,Ezreal,Leona,Kennen,Nidalee,Zed,Kalista,Nautilus
+9,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3557860465.0,GOLD,DUO_SUPPORT,Senna,1.0,4.0,2.0,21.0,12831.0,Darius,Shen,Lux,Ezreal,Senna,Gragas,Trundle,Azir,Lucian,Nami
+10,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3557667728.0,GOLD,DUO_SUPPORT,Galio,0.0,0.0,4.0,6.0,5626.0,Ornn,Graves,LeBlanc,Jinx,Galio,Illaoi,Xin Zhao,Cassiopeia,Ashe,Yuumi
+11,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3555424034.0,GOLD,DUO_SUPPORT,Galio,1.0,0.0,3.0,9.0,5478.0,Sion,Gragas,Morgana,Jhin,Galio,Jayce,Hecarim,Ekko,Ashe,Pyke
+12,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3554375561.0,GOLD,DUO_SUPPORT,Galio,1.0,3.0,5.0,8.0,8416.0,Jax,Shaco,Sylas,Vayne,Galio,Urgot,Ivern,Diana,Caitlyn,Leona
+13,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3546639709.0,GOLD,DUO_SUPPORT,Galio,1.0,0.0,3.0,18.0,8437.0,Riven,Xin Zhao,Akali,Miss Fortune,Galio,Wukong,Graves,Ahri,Tristana,Swain
+14,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3544591089.0,GOLD,DUO_SUPPORT,Senna,1.0,1.0,5.0,23.0,8841.0,Teemo,Kayn,Zed,Tristana,Senna,Jax,Xin Zhao,Neeko,Ezreal,LeBlanc
+15,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3544225003.0,GOLD,DUO_SUPPORT,Galio,0.0,3.0,7.0,15.0,10720.0,Garen,Udyr,Yone,Twitch,Galio,Kayle,Jax,Annie,Caitlyn,Blitzcrank
+16,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3543101782.0,GOLD,DUO_SUPPORT,Galio,1.0,2.0,2.0,13.0,8589.0,Yasuo,Hecarim,Annie,Miss Fortune,Galio,Irelia,Nunu & Willump,Syndra,Ashe,Rakan
+17,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3542809341.0,GOLD,DUO_SUPPORT,Blitzcrank,1.0,2.0,4.0,14.0,7703.0,Xin Zhao,Lillia,Diana,Vayne,Blitzcrank,Cho'Gath,Ivern,Zed,Senna,Ornn
+18,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3541763709.0,GOLD,DUO_SUPPORT,Senna,0.0,1.0,5.0,7.0,6987.0,Gnar,Amumu,Kindred,Ezreal,Senna,Vayne,Lillia,Orianna,Miss Fortune,Rakan
+19,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3539021582.0,GOLD,DUO_SUPPORT,Senna,0.0,1.0,2.0,1.0,5124.0,Jax,Kha'Zix,Yone,Sivir,Senna,Poppy,Hecarim,Nunu & Willump,Caitlyn,Morgana
+20,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3537657676.0,GOLD,DUO_SUPPORT,Senna,1.0,5.0,3.0,33.0,12775.0,Riven,Xin Zhao,Katarina,Caitlyn,Senna,Jayce,Rammus,Zoe,Jhin,Leona
+21,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3536656142.0,GOLD,DUO_SUPPORT,Senna,1.0,4.0,6.0,23.0,11512.0,Tryndamere,Ekko,Katarina,Lucian,Senna,Darius,Graves,Vel'Koz,Ashe,Lulu
+22,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3536573120.0,GOLD,DUO_SUPPORT,Senna,1.0,1.0,2.0,9.0,5944.0,Shen,Vi,Nunu & Willump,Lucian,Senna,Darius,Evelynn,Azir,Ashe,Yuumi
+23,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3536383718.0,GOLD,DUO_SUPPORT,Leona,0.0,0.0,8.0,8.0,5608.0,Tryndamere,Hecarim,Neeko,Ezreal,Leona,Yorick,Kayn,Yasuo,Ashe,Sona
+24,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3535678453.0,GOLD,DUO_SUPPORT,Galio,0.0,3.0,6.0,15.0,9123.0,Nasus,Graves,Nunu & Willump,Lucian,Galio,Jax,Volibear,Heimerdinger,Twitch,Pyke
+25,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3535045980.0,GOLD,DUO_SUPPORT,Senna,1.0,1.0,5.0,29.0,11213.0,Poppy,Graves,Annie,Jinx,Senna,Renekton,Ivern,Viktor,Ashe,Soraka
+26,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3529744206.0,GOLD,DUO_SUPPORT,Sona,0.0,1.0,5.0,3.0,7878.0,Poppy,Kayn,Akali,Caitlyn,Sona,Jax,Shyvana,Katarina,Vayne,Janna
+27,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3528782630.0,GOLD,DUO_SUPPORT,Sona,1.0,4.0,5.0,7.0,6750.0,Fiora,Xin Zhao,LeBlanc,Senna,Sona,Camille,Evelynn,Nocturne,Jinx,Zilean
+28,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3528509245.0,GOLD,DUO_SUPPORT,Sona,0.0,2.0,6.0,11.0,7565.0,Cassiopeia,Hecarim,Sylas,Lucian,Sona,Jax,Sejuani,Anivia,Viktor,Nami
+29,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3527629681.0,GOLD,DUO_SUPPORT,Galio,1.0,3.0,5.0,20.0,8367.0,Kennen,Olaf,Annie,Ashe,Galio,Yasuo,Ekko,Pantheon,Ezreal,Blitzcrank
+30,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3527305077.0,GOLD,DUO_SUPPORT,Galio,1.0,4.0,6.0,19.0,11529.0,Mordekaiser,Jax,Yasuo,Lucian,Galio,Fiora,Kayn,Morgana,Ezreal,Sona
+31,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3526473162.0,GOLD,DUO_SUPPORT,Sona,1.0,0.0,1.0,27.0,8317.0,Ornn,Twitch,Yone,Yasuo,Sona,Garen,Nunu & Willump,Twisted Fate,Ezreal,Pantheon
+32,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3526212799.0,GOLD,DUO_SUPPORT,Sona,0.0,3.0,3.0,9.0,8531.0,Jax,Kindred,Lux,Aphelios,Sona,Renekton,Amumu,Yone,Kai'Sa,Soraka
+33,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3526080733.0,GOLD,DUO_SUPPORT,Sona,0.0,0.0,6.0,15.0,7005.0,Volibear,Shaco,Zed,Twitch,Sona,Yone,Sett,Cassiopeia,Vayne,Pyke
+34,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3515689164.0,GOLD,DUO_SUPPORT,Leona,1.0,2.0,7.0,22.0,7980.0,Tryndamere,Warwick,Galio,Draven,Leona,Irelia,Nunu & Willump,Ahri,Caitlyn,Nautilus
+35,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3483419982.0,GOLD,DUO_SUPPORT,Sona,0.0,2.0,1.0,8.0,7483.0,Garen,Zac,Ahri,Varus,Sona,Lucian,Kayn,Syndra,Caitlyn,Leona
+36,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3481636719.0,GOLD,DUO_SUPPORT,Sona,1.0,1.0,1.0,19.0,6178.0,Nunu & Willump,Rammus,Qiyana,Twitch,Sona,Singed,Kayn,Vladimir,Jinx,Nautilus
+37,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3416268499.0,GOLD,SOLO,Orianna,1.0,8.0,5.0,3.0,9158.0,Garen,Fiddlesticks,Orianna,Yasuo,Ornn,Kled,Jax,Pantheon,Ezreal,Pyke
+38,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3416195525.0,GOLD,SOLO,Orianna,1.0,10.0,2.0,0.0,9908.0,Gnar,Lee Sin,Orianna,Kai'Sa,Nami,Cho'Gath,Graves,LeBlanc,Kalista,Taric
+39,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3416109114.0,GOLD,SOLO,Yasuo,0.0,4.0,12.0,2.0,9609.0,Yasuo,Lee Sin,Nasus,Tristana,Thresh,Camille,Udyr,Zed,Ezreal,Zyra
+40,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3416110688.0,GOLD,SOLO,Sett,1.0,13.0,11.0,21.0,16085.0,Sett,Kha'Zix,Gragas,Ashe,Swain,Urgot,Warwick,Neeko,Xayah,Rakan
+41,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3415996419.0,GOLD,SOLO,Yasuo,1.0,11.0,6.0,5.0,14061.0,Ornn,Trundle,Yasuo,Lucian,Morgana,Ryze,Kayn,Akali,Jhin,Swain
+42,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3416050316.0,GOLD,SOLO,Fiora,0.0,1.0,4.0,0.0,5918.0,Fiora,Morgana,Ziggs,Vayne,Shaco,Garen,Kha'Zix,Twisted Fate,Jhin,Yuumi
+43,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3415936008.0,GOLD,SOLO,Irelia,0.0,6.0,10.0,3.0,10436.0,Irelia,Amumu,Akali,Miss Fortune,Leona,Nasus,Kayn,Ekko,Caitlyn,Ziggs
+44,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3403689759.0,GOLD,DUO_SUPPORT,Leona,0.0,1.0,7.0,9.0,5781.0,Shyvana,Kayn,Malzahar,Ashe,Leona,Fiora,Zac,Swain,Miss Fortune,Lux
+45,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3403304441.0,GOLD,DUO_SUPPORT,Trundle,0.0,1.0,10.0,11.0,7594.0,Cho'Gath,Ekko,Vel'Koz,Ashe,Trundle,Fiora,Graves,Ryze,Miss Fortune,Thresh
+46,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3402241544.0,GOLD,DUO_SUPPORT,Taric,1.0,0.0,1.0,6.0,5391.0,Nasus,Dr. Mundo,Vladimir,Tristana,Taric,Aatrox,Master Yi,Ezreal,Varus,Yuumi
+47,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3400967722.0,GOLD,DUO_SUPPORT,Leona,0.0,0.0,9.0,14.0,7648.0,Irelia,Udyr,Fizz,Ezreal,Leona,Poppy,Kayn,Annie,Vayne,Soraka
+48,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3399338804.0,GOLD,DUO_SUPPORT,Blitzcrank,1.0,0.0,5.0,19.0,7444.0,Jax,Graves,Lux,Ashe,Blitzcrank,Aatrox,Syndra,Ekko,Kai'Sa,Nautilus
+49,NJmzpDSPvy2esijBBelXuRVm9JZu3-tYKOi71qOOfYqgh5Y,3397542625.0,GOLD,DUO_SUPPORT,Sona,0.0,3.0,4.0,6.0,7653.0,Jax,Ekko,Veigar,Jinx,Sona,Teemo,Graves,Zed,Varus,Zyra
