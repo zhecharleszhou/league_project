@@ -104,7 +104,7 @@ def main_grab_data(region, summoner_name, APIKey):
     player_rank = summoner_performance[0]['tier']
 
     # grab summoner match list
-    matchList  = requestMatchList(region,acctID, APIKey)   
+    matchList = requestMatchList(region,acctID, APIKey)
     numMatches = len(matchList ['matches'])
 
     # go through each match
@@ -205,6 +205,11 @@ def main_grab_data(region, summoner_name, APIKey):
         df_user_matches.loc[next_idx, 'deaths'] = stats_dict['deaths']
         df_user_matches.loc[next_idx, 'assists'] = stats_dict['assists']
         df_user_matches.loc[next_idx, 'gold_earned'] = stats_dict['goldEarned']
+        df_user_matches.loc[next_idx, 'vision_score'] = stats_dict['visionScore']
+        df_user_matches.loc[next_idx, 'crowd_control_time'] = stats_dict['timeCCingOthers']
+        df_user_matches.loc[next_idx, 'dmg_taken'] = stats_dict['totalDamageTaken']
+        df_user_matches.loc[next_idx, 'dmg_dealt'] = stats_dict['totalDamageDealt']
+        df_user_matches.loc[next_idx, 'objective_dmg'] = stats_dict['damageDealtToObjectives']
         df_user_matches.loc[next_idx, 'acct_id'] = acctID
 
         df_user_matches.loc[next_idx, 'player_top'] = all_player_dict['player_top']
@@ -217,7 +222,7 @@ def main_grab_data(region, summoner_name, APIKey):
         df_user_matches.loc[next_idx, 'opp_jung'] = all_player_dict['opp_jung']
         df_user_matches.loc[next_idx, 'opp_mid'] = all_player_dict['opp_mid']
         df_user_matches.loc[next_idx, 'opp_ADC'] = all_player_dict['opp_ADC'] 
-        df_user_matches.loc[next_idx, 'opp_supp'] = all_player_dict['opp_supp'] 
+        df_user_matches.loc[next_idx, 'opp_supp'] = all_player_dict['opp_supp']
 
         print('Added match #' + str(iMatch))
 
