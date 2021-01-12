@@ -141,7 +141,8 @@ def main_grab_data(region, summoner_name, APIKey):
         # get role and lane
         role = match_info['participants'][player_key]['timeline']['role']
         lane = match_info['participants'][player_key]['timeline']['lane']
-        teamID = match_info['participants'][player_key]['teamId'] 
+        teamID = match_info['participants'][player_key]['teamId']
+        timeline_data = match_info['participants'][iParticipant]['timeline']
 
         all_player_dict = {}
         for iParticipant in range(0, 10):
@@ -226,7 +227,7 @@ def main_grab_data(region, summoner_name, APIKey):
 
         print('Added match #' + str(iMatch))
 
-    return df_user_matches
+    return df_user_matches, timeline_data
 
 
 # In[94]:
@@ -240,7 +241,7 @@ if __name__ == "__main__":
     summoner_name = 'Duvet Cover'
     flag_save_load = 0 # 1 if save, 2 if load
     
-    df_user_matches = main_grab_data(region,summoner_name, APIKey)
+    df_user_matches, timeline_data = main_grab_data(region,summoner_name, APIKey)
     
     if flag_save_load == 1:
         with open(r'.\sample_match_info.pkl', 'wb') as handle:
